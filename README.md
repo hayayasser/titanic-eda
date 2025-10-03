@@ -8,7 +8,6 @@ The goal is to practice data cleaning, exploration, and visualization using Pyth
 ⸻
 
 📂 Current Notebook
-	•	titanic_basics.ipynb
 	•	Loads the dataset into Pandas
 	•	Displays basic info (.head(), .info(), .describe())
 	•	Identifies missing values
@@ -18,6 +17,7 @@ The goal is to practice data cleaning, exploration, and visualization using Pyth
 ⸻
 
 📊 Dataset Source
-	•	Kaggle Titanic: https://www.kaggle.com/c/titanic/data
+
+Kaggle Titanic: https://www.kaggle.com/c/titanic/data
 
 ⸻
