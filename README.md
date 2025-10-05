@@ -6,17 +6,17 @@ This project explores the famous Titanic dataset, which contains passenger infor
 
 ⸻
 
+📊 Dataset Source
+
+Kaggle Titanic: https://www.kaggle.com/c/titanic/data
+
+⸻
+
 📂 Structure
 
 - **titanic_basics.ipynb** → Data loading, inspection, and cleaning  
 - **titanic_analysis.ipynb** → Feature exploration and visual analysis
 - **titanic.zip** → Dataset (3 .csv files: train.csv was the one used) 
-
-⸻
-
-📊 Dataset Source
-
-Kaggle Titanic: https://www.kaggle.com/c/titanic/data
 
 ⸻
 
@@ -28,4 +28,5 @@ Kaggle Titanic: https://www.kaggle.com/c/titanic/data
 ⸻
 
 🤔 Next Steps
+
 Perform feature engineering and model training.
