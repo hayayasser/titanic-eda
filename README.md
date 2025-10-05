@@ -2,14 +2,15 @@
 
 📌 Project Overview
 
-This project explores the famous Titanic dataset, which contains passenger information (age, gender, class, fare, survival outcome, etc.).
-The goal is to practice data cleaning, exploration, and visualization using Python and Pandas.
+This project explores the famous Titanic dataset, which contains passenger information (age, gender, class, fare, survival outcome, etc.). The goal is to practice data cleaning, exploration, and visualization using Python and Pandas.
 
 ⸻
 
-📂 Current Notebook
+📂 Structure
 
-This notebook loads the dataset into Pandas, displays basic info (.head(), .info(), .describe()), identifies missing values, creates a new feature (family_size = SibSp + Parch + 1), and performs simple filtering (e.g., passengers older than 50)
+- **titanic_basics.ipynb** → Data loading, inspection, and cleaning  
+- **titanic_analysis.ipynb** → Feature exploration and visual analysis
+- **titanic.zip** → Dataset (3 .csv files: train.csv was the one used) 
 
 ⸻
 
@@ -18,3 +19,13 @@ This notebook loads the dataset into Pandas, displays basic info (.head(), .info
 Kaggle Titanic: https://www.kaggle.com/c/titanic/data
 
 ⸻
+
+🛠️ Tools
+
+- Python 3.11 | Pandas | Matplotlib | Seaborn
+- Jupyter Notebook
+
+⸻
+
+🤔 Next Steps
+Perform feature engineering and model training.
